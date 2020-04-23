@@ -1,7 +1,7 @@
 集中度測定用アプリ
 
 # ダウンロード
-[集中度測定用アプリ](https://github.com/proseeds/concentration-app/releases/download/0.1/clms_setup.msi)
+[集中度測定用アプリをダウンロードする](https://github.com/proseeds/concentration-app/releases/download/0.1/clms_setup.msi)
 
 # ヘルプ
 ■受講者：<br />
