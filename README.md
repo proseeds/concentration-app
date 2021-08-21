@@ -1,5 +1,5 @@
 # ダウンロード
-[集中度測定用アプリをダウンロードする](https://github.com/proseeds/concentration-app/releases/download/1.0.3/clms_setup_1.0.3.msi
+[集中度測定用アプリをダウンロードする](https://github.com/proseeds/concentration-app/releases/download/1.0.4/clms_setup_1.0.4.msi
 )
 
 # ヘルプ
@@ -15,7 +15,7 @@
 1. 集中度機能が有効になっている講座の詳細画面を表示します。<br />
 2. ユニットタイトルを選択して講義ウィンドウを表示します。<br />
 3. 「集中度の計測」パネル内より、集中度を計測するアプリをダウンロードします。<br />
-[こちら](https://github.com/proseeds/concentration-app/releases/download/1.0.3/clms_setup_1.0.3.msi
+[こちら](https://github.com/proseeds/concentration-app/releases/download/1.0.4/clms_setup_1.0.4.msi
 )から、ダウンロードすることも可能です。<br />
 4. ダウンロードしたファイル「clms_setup.msi」をダブルクリックします。<br />
 5. 画面の指示に従って「集中度計測アプリ」をインストールします。<br />
